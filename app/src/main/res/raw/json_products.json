@@ -1,0 +1,147 @@
+{
+  "category": [
+    {
+      "idCategory": 1,
+      "nameCategory": "jugos"
+    },
+    {
+      "idCategory": 2,
+      "nameCategory": "hamburguesas"
+    },
+    {
+      "idCategory": 3,
+      "nameCategory": "bebidas"
+    },
+    {
+      "idCategory": 4,
+      "nameCategory": "dulces"
+    },
+    {
+      "idCategory": 5,
+      "nameCategory": "pizzas & pastas"
+    }
+  ],
+  "store": [
+    {
+      "idStore": 1,
+      "nameStore": "Tienda A",
+      "imageStore": "https://www.leafio.ai/storage/common/attaches/00dae7ceacebaeca483ca84256ecb9d259cb5418.webp"
+    },
+    {
+      "idStore": 2,
+      "nameStore": "Tienda B",
+      "imageStore": "https://www.ceupe.com/images/easyblog_articles/3625/b2ap3_large_que-es-un-tienda-online.png"
+    },
+    {
+      "idStore": 3,
+      "nameStore": "Tienda C",
+      "imageStore": "https://www.bolsalea.com/blog/media/tienda-tradicional_opt.png"
+    }
+  ],
+  "products": [
+    {
+      "idProduct": 1,
+      "nameProduct": "jugo de fresa",
+      "price": 10.00,
+      "imageProduct": "https://redmujeresemprendedoras.org/wp-content/uploads/2021/09/jugo-fresa-con-leche.jpg",
+      "idCategory": 1,
+      "idStore": 1
+    },
+    {
+      "idProduct": 2,
+      "nameProduct": "hamburguesa de pollo",
+      "price": 20.00,
+      "imageProduct": "https://polloseldorado.co/wp-content/uploads/2023/02/Imagen-1-3-1024x536.jpg",
+      "idCategory": 2,
+      "idStore": 1
+    },
+    {
+      "idProduct": 3,
+      "nameProduct": "gaseosa",
+      "price": 12.00,
+      "imageProduct": "https://tiptop.com.pe/wp-content/uploads/2023/06/Gaseosas-personales-scaled.jpg",
+      "idCategory": 3,
+      "idStore": 1
+    },
+    {
+      "idProduct": 4,
+      "nameProduct": "hamburguesa de carne",
+      "price": 25.00,
+      "imageProduct": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 2,
+      "idStore": 1
+    },
+    {
+      "idProduct": 5,
+      "nameProduct": "Jugo de naranja",
+      "price": 12.00,
+      "imageProduct": "https://images.pexels.com/photos/19885932/pexels-photo-19885932/free-photo-of-barra-bar-coctel-vaso.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 1,
+      "idStore": 1
+    },
+    {
+      "idProduct": 6,
+      "nameProduct": "Pizza vegetariana",
+      "price": 40.00,
+      "imageProduct": "https://images.pexels.com/photos/7813572/pexels-photo-7813572.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "idCategory": 5,
+      "idStore": 2
+    },
+    {
+      "idProduct": 7,
+      "nameProduct": "Pizza carne",
+      "price": 47.00,
+      "imageProduct": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+      "idCategory": 5,
+      "idStore": 2
+    },
+    {
+      "idProduct": 8,
+      "nameProduct": "gaseosa",
+      "price": 12.00,
+      "imageProduct": "https://tiptop.com.pe/wp-content/uploads/2023/06/Gaseosas-personales-scaled.jpg",
+      "idCategory": 1,
+      "idStore": 2
+    },
+    {
+      "idProduct": 9,
+      "nameProduct": "Lasaña",
+      "price": 35.00,
+      "imageProduct": "https://images.pexels.com/photos/5949893/pexels-photo-5949893.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 5,
+      "idStore": 2
+    },
+    {
+      "idProduct": 10,
+      "nameProduct": "Suspiros",
+      "price": 24.00,
+      "imageProduct": "https://images.pexels.com/photos/1346345/pexels-photo-1346345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 4,
+      "idStore": 3
+    },
+    {
+      "idProduct": 11,
+      "nameProduct": "Pie de manzana",
+      "price": 12.00,
+      "imageProduct": "https://images.pexels.com/photos/6163270/pexels-photo-6163270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 4,
+      "idStore": 3
+    },
+    {
+      "idProduct": 12,
+      "nameProduct": "Torta de chocolate",
+      "price": 50.00,
+      "imageProduct": "https://images.pexels.com/photos/19897304/pexels-photo-19897304/free-photo-of-chocolate-bombon-dulce-cuchillo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "idCategory": 4,
+      "idStore": 3
+    },
+    {
+      "idProduct": 13,
+      "nameProduct": "gaseosa",
+      "price": 12.00,
+      "imageProduct": "https://tiptop.com.pe/wp-content/uploads/2023/06/Gaseosas-personales-scaled.jpg",
+      "idCategory": 3,
+      "idStore": 3
+    }
+  ]
+}
